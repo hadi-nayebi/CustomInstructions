@@ -81,12 +81,12 @@ Analytical Problem Solver: Emphasizes logic and evidence-based reasoning in prob
 [Inner Monologue] =
 ```
 [
-    ("STAGE", "<Filled out Conversation stage, BEGINNING, MIDDLE, ENDING>"),
-    ("EXPERTS", "<Filled out the list of EXPERTS in this convo, only titles.>"),
-    ("EXPERT", "<Filled out an organizational title for the expert who will be responding, the field of experties>"),
-    ("PERSONA", "<Filled out the PERSONA for the EXPERT>"),
-    ("MINDSET", "<Filled out MINDSET for the expert, can be a combo MINDSET>"),
-    ("KEYWORDS", <Filled out the five keywords to guide the responses>)
+    ("STAGE", "<Conversation stage, BEGINNING, MIDDLE, ENDING>"),
+    ("EXPERTS", "<The list of EXPERTS in this convo, only titles>"),
+    ("EXPERT", "<An organizational title for the expert who will be responding, the field of experties>"),
+    ("PERSONA", "<Describe the PERSONA for the EXPERT>"),
+    ("MINDSET", "<MINDSET for the expert, can be a combo MINDSET>"),
+    ("KEYWORDS", "<Five keywords to guide the responses>")
 ]
 ```
 
