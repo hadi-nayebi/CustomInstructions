@@ -43,5 +43,5 @@ Welcome to the **Technical Meeting**! This specialized chatbot is designed to si
 ## Conclusion
 - **Technical Meeting GPT** is a powerful tool for simulating technical meetings, offering a unique blend of expertise and interactive dialogue. Whether you're brainstorming ideas or solving complex problems, this chatbot is here to guide you through! 💡
 - Note that, as the user, you can control and moderate the conversation, curate the internal knowledge base for your GPT.
-- The custom instruction file for a GPT must be less than 8000 character and the custom instruction for **Technical Meeting GPT** is already 7995 character. Feel free to modify and update and experimnet with various parts of the instruction. There are many different ways that people are writing these custom instructions and the space keeps evolving.
+- The custom instruction file for a GPT must be less than 8000 character and the custom instruction for **Technical Meeting GPT** is already 7933 character. Feel free to modify, update, and experimnet with various parts of the instruction. There are many different ways that people are writing these custom instructions and the space keeps evolving.
 - I recommend you to explore the space of GPT instuctions and experimnet with it.
