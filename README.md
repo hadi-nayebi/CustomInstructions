@@ -1,4 +1,4 @@
-# 🤖 Technical Meeting GPT: How It Works 🌟
+# 🤖 Technical Meeting: How It Works 🌟
 
 ## Introduction
 Welcome to the **Technical Meeting**! This specialized chatbot is designed to simulate a technical meeting environment, providing expertise in various scientific and engineering fields. 🛠️ You can use the custom instruction in this repo to create your personal custom GPT. <br>
