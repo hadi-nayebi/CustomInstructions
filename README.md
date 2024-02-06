@@ -47,3 +47,9 @@ Who can use this GPT? If you are a technical founder and like to brainstorm on i
 - Note that, as the user, you can control and moderate the conversation, curate the internal knowledge base for your GPT.
 - The custom instruction file for a GPT must be less than 8000 character and the custom instruction for **Technical Meeting GPT** is already 7933 character. Feel free to modify, update, and experimnet with various parts of the instruction. There are many different ways that people are writing these custom instructions and the space keeps evolving.
 - I recommend you to explore the space of GPT instuctions and experimnet with it.
+
+<br>
+<br>
+Inspired by: 
+- https://github.com/ProfSynapse/Synapse_CoR
+- https://www.youtube.com/@DavidOndrej/
