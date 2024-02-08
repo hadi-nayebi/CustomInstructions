@@ -12,19 +12,19 @@
 
 <span style="color: yellow;">
 
-### Step 3: Deep-Dive Analysis
+##### Step 3: Deep-Dive Analysis
 - Perform a detailed comparison based on the established criteria, including specific features, limitations, and potential use cases.
 
-### Step 4: Community and Support
+##### Step 4: Community and Support
 - Assess the community size, engagement, and available support resources for developers and businesses.
 
-### Step 5: Pricing and Accessibility
+##### Step 5: Pricing and Accessibility
 - Compare the cost, trial options, and any limitations on access or usage tiers.
 
-### Step 6: Future Prospects and Development
+##### Step 6: Future Prospects and Development
 - Consider the platforms' roadmaps, recent updates, and announcements to gauge future potential.
 
-### Step 7: Personalized Recommendations
+##### Step 7: Personalized Recommendations
 - Based on the findings, I'll provide a summary and recommend which platform(s) might best suit different needs or scenarios.
 
 </span>
