@@ -1,4 +1,4 @@
-# How to compare agnetic LLM platforms/libraries (by ChatGPT)
+# How to compare agnetic LLM platforms/libraries? (by ChatGPT)
 
 ### Step 1: Establish Evaluation Criteria
 - **No-Code Features**: Assess the availability and extent of no-code or low-code capabilities for rapid development and deployment.
