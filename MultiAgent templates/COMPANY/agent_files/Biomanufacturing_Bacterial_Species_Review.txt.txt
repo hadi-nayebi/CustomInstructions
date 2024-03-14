@@ -1,0 +1,28 @@
+
+HN-CEO:
+ ## Summary of Bacterial Species in Biomanufacturing
+
+In the realm of biomanufacturing, several bacterial species stand out for their crucial roles in producing various materials, chemicals, and pharmaceuticals. This segment highlights some of the common bacterial species, detailing their roles, specific applications, and recent advancements.
+
+### Common Species and Their Applications
+
+1. **Escherichia coli (E. coli)**: A key model organism in biotechnology, prized for its genetic manipulability. It plays a pivotal role in producing recombinant proteins, enzymes, and therapeutic agents. Recent progress has been made in adapting E. coli for utilizing single-carbon feedstocks for more efficient space-related applications.
+
+2. **Bacillus subtilis (B. subtilis)**: Recognized for its biofilm formation capabilities, B. subtilis has been engineered to produce exopolysaccharides and structural proteins, leading to enhanced biofilm production and bioprocess stability.
+
+3. **Saccharomyces cerevisiae (S. cerevisiae)**: This yeast species is extensively used in biofuel production, pharmaceuticals, and food additives manufacturing. Efforts in metabolic engineering aim to increase the carbon efficiency of its metabolism, essential for applications in space.
+
+4. **Non-model Microbes**: The exploration of non-model microbes, particularly those capable of mixotrophy, is on the rise for space-related applications. These microbes offer an efficient way to leverage resources through in-situ resource utilization and life-support systems.
+
+### Recent Advancements
+
+- **Engineered Microbial Consortia:** The design of microbial consortia aims at promoting mutualism and a division of labor, leading to advantageous bioproductivity outcomes.
+
+- **Synthetic Biology Tools:** The use of synthetic biology tools in engineering microbial communities fosters diverse applications, including the bioproduction of valuable compounds.
+
+- **Space-Related Applications:** There's an emphasis on developing microbial production systems suitable for space exploration, utilizing resources available through ISRU.
+
+- **Biocomputing:** Utilizing biological parts for computations, biocomputing holds potential in biomanufacturing, particularly in controlling microbial consortia composition and interactions.
+
+
+***
