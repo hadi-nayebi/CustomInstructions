@@ -1,6 +1,9 @@
 # Custom Instructions for Custom GPTs
 
-Welcome to our Custom Instructions repository, a collaborative platform for those eager to master customizing Large Language Models (LLMs), particularly GPT models. We aim to empower you with the knowledge to create personalized LLM tools and applications, akin to how many have learned to use Microsoft Office tools as a basic skill in the modern world. We believe that the ability to customize LLM tools will be an essential skill to have in the next era.
+Welcome to our Custom Instructions repository, a collaborative platform for those eager to master customizing Large Language Models (LLMs), particularly GPT models. We aim to empower you with the knowledge to create personalized LLM tools and applications, akin to how many have learned to use Microsoft Office tools as a basic skill in the modern world. We believe that the ability to customize LLM tools will be an essential skill to have in the next era.<br>
+useful links: 
+1. [Prof Synapse](https://github.com/ProfSynapse/Synapse_CoR)
+
 
 ## Overview
 
