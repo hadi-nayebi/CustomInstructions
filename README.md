@@ -1,13 +1,13 @@
 # Custom Instructions for Custom GPTs
 
-Welcome to our Custom Instructions repository, a collaborative platform for those eager to master customizing Large Language Models (LLMs), particularly GPT models. We aim to empower you with the knowledge to create personalized LLM tools and applications, akin to how many have learned to use Microsoft Office tools as a basic skill in the modern world. We believe that the ability to customize LLM tools will be an essential skill to have in the next era.<br>
+Welcome to our Custom Instructions repository, a collaborative platform for those eager to master customizing Large Language Models (LLMs) and building LLM tools. We aim to empower you with the knowledge to create personalized LLM tools and applications, akin to how many have learned to use Microsoft Office tools as a basic skill in the modern world. We believe that the ability to customize LLM tools will be an essential skill to have in the next era.<br>
 useful links: 
 1. [Prof Synapse](https://github.com/ProfSynapse/Synapse_CoR)
 
 
 ## Overview
 
-In this repository, you will find a collection of custom instructions, each organized in its folder. These instructions are designed to help you customize your own LLM tools and enhance their capabilities. Note that these instructions are only a template and a good starting point, and the objective is to get you started experimenting with custom instructions to control your LLMs. The content in this repo will be updated following our workshops on this topic. Various building blocks are used in custom instructions, and you can find simple instructions to more complicated ones as we go through workshop sessions. Each custom instruction has different building blocks, and you can always mix and match them to build complex instruction files for the LLMs. We also have a different directory to share multiagent frameworks/templates and provide an easy way for people to experiment with these templates. 
+In this repository, you will find a collection of example custom instructions, each organized in its folder. These instructions are designed to help you customize your own LLM tools and enhance their capabilities. Note that these instructions are only a template and a good starting point, and the objective is to get you started experimenting with custom instructions to control your LLMs. The content in this repo will be updated following our workshops on this topic. Various building blocks are used in custom instructions, and you can find simple instructions to more complicated ones as we go through workshop sessions. Each custom instruction has different building blocks, and you can always mix and match them to build complex instructions for the LLMs. We also have a different directory to share multiagent frameworks/templates and provide an easy way for everyone to experiment with these templates. 
 <br>
 <br>
 This repository serves as your starting point in the fascinating world of LLM customization:
