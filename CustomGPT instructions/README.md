@@ -19,12 +19,10 @@ LLMs, as the core technology using custom instructions, are, by definition, lang
 
 
 ## Building Blocks
-
+coming soon!
 
 ## Best Practices
-
-
-## Notations
+coming soon!
 
 
 That's it! You now have a basic template for creating custom instructions for LLM models. Happy creating!
